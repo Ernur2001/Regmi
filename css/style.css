@@ -556,11 +556,11 @@ table {
     margin: 0.25rem 0rem 1rem;
     border-radius: 5px;
     background-color: #fff;
-    padding: 3px 0px;
+    padding: 3px 5px;
 }
 
 form input {
-    padding: 5px 0px;
+    padding: 5px 5px;
 }
 
 .btn {
