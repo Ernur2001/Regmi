@@ -565,6 +565,7 @@ form input {
 
 .btn {
     padding: 15px;
+    border: 1px #96C2DB;
     border-radius: 1.5rem;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .7);
     font-weight: bold;
